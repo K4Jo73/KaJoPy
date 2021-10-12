@@ -4,7 +4,7 @@ import sys
 # sys.path.append('.\\mod\\')
 sys.path.insert(0, './mod')
 import fileHandler
-import coreFeatures
+import Logger as audit
 import random
 # import logging
 
@@ -15,8 +15,8 @@ import random
 # print(sys.path)
 
 
-coreFeatures.logging.debug(sys.path)
-coreFeatures.setup_logging("./logs/")
+audit.setup_logging("./logs/")
+audit.logging.debug(sys.path)
 
 print('_' * 50)
 print('')
@@ -38,17 +38,17 @@ fileHandler.ShowFile('README.md')
 
 MySearchResults = fileHandler.SearchFile("File1.txt", "and")
 # print(MySearchResults)
-coreFeatures.logging.info(MySearchResults)
+audit.logging.info(MySearchResults)
 
 # fileHandler.DeleteFile("File1.txt")
 
 fileHandler.LoadCSV("test.csv")
 
-coreFeatures.logging.error("whoops")
+audit.logging.error("whoops")
 
-coreFeatures.logging.warning("dont dare")
+audit.logging.warning("dont dare")
 
-coreFeatures.logging.critical("Oh Christ!")
+audit.logging.critical("Oh Christ!")
 
 try:
     x = 10
@@ -56,6 +56,6 @@ try:
     Res = x / y
 # except ZeroDivisionError:
 except Exception:
-    coreFeatures.logging.exception("This is used in try catch scenarios!")
+    audit.logging.exception("This is used in try catch scenarios!")
 
 
