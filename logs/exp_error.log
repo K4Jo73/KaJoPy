@@ -1,0 +1,128 @@
+[ERROR] root - 2021-10-11 15:51:40,441 - root - : whoops in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:47
+[CRITICAL] root - 2021-10-11 15:51:40,442 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:49
+[ERROR] root - 2021-10-11 15:59:58,827 - root - : whoops in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:47
+[CRITICAL] root - 2021-10-11 15:59:58,828 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:49
+[ERROR] root - 2021-10-11 15:59:58,829 - root - : This is used in try catch scenarios in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:51
+NoneType: None
+[ERROR] root - 2021-10-11 16:05:49,713 - root - : whoops in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:47
+[CRITICAL] root - 2021-10-11 16:05:49,716 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:49
+[ERROR] root - 2021-10-11 16:05:49,716 - root - : This is used in try catch scenarios in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:51
+NoneType: None
+[ERROR] root - 2021-10-11 16:09:03,201 - root - : whoops in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:47
+[CRITICAL] root - 2021-10-11 16:09:03,201 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:49
+[ERROR] root - 2021-10-11 16:09:03,202 - root - : This is used in try catch scenarios in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:51
+NoneType: None
+[ERROR] root - 2021-10-11 16:18:25,440 - root - : whoops in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:47
+[CRITICAL] root - 2021-10-11 16:18:25,441 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:49
+[ERROR] root - 2021-10-11 16:18:25,442 - root - : This is used in try catch scenarios in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:56
+Traceback (most recent call last):
+  File "d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py", line 54, in <module>
+    Res = x / y
+ZeroDivisionError: division by zero
+[ERROR] root - 2021-10-11 16:21:47,043 - root - : whoops in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:47
+[CRITICAL] root - 2021-10-11 16:21:47,043 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:49
+[ERROR] root - 2021-10-11 16:21:47,044 - root - : This is used in try catch scenarios in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:56
+Traceback (most recent call last):
+  File "d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py", line 54, in <module>
+    Res = x / y
+ZeroDivisionError: division by zero
+[ERROR] root - 2021-10-11 16:22:27,547 - root - : whoops in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:47
+[CRITICAL] root - 2021-10-11 16:22:27,548 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:49
+[ERROR] root - 2021-10-11 16:22:27,549 - root - : This is used in try catch scenarios in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:57
+Traceback (most recent call last):
+  File "d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py", line 54, in <module>
+    Res = x / y
+ZeroDivisionError: division by zero
+[ERROR] root - 2021-10-11 16:22:49,414 - root - : whoops in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:47
+[CRITICAL] root - 2021-10-11 16:22:49,415 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:49
+[ERROR] root - 2021-10-11 16:22:49,415 - root - : This is used in try catch scenarios! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:57
+Traceback (most recent call last):
+  File "d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py", line 54, in <module>
+    Res = x / y
+ZeroDivisionError: division by zero
+[ERROR] root - 2021-10-11 16:40:31,102 - root - : whoops in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:47
+[CRITICAL] root - 2021-10-11 16:40:31,103 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:49
+[ERROR] root - 2021-10-11 16:40:31,103 - root - : This is used in try catch scenarios! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:57
+Traceback (most recent call last):
+  File "d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py", line 54, in <module>
+    Res = x / y
+ZeroDivisionError: division by zero
+[ERROR] root - 2021-10-11 16:42:02,303 - root - : whoops in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:47
+[WARNING] root - 2021-10-11 16:42:02,304 - root - : dont dare in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:49
+[CRITICAL] root - 2021-10-11 16:42:02,304 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:51
+[ERROR] root - 2021-10-11 16:42:02,305 - root - : This is used in try catch scenarios! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:59
+Traceback (most recent call last):
+  File "d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py", line 56, in <module>
+    Res = x / y
+ZeroDivisionError: division by zero
+[CRITICAL] root - 2021-10-11 16:43:13,293 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:51
+[CRITICAL] root - 2021-10-11 16:44:00,528 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:51
+[CRITICAL] root - 2021-10-11 16:44:35,744 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:51
+[ERROR] root - 2021-10-11 16:44:54,029 - root - : whoops in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:47
+[WARNING] root - 2021-10-11 16:44:54,030 - root - : dont dare in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:49
+[CRITICAL] root - 2021-10-11 16:44:54,030 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:51
+[ERROR] root - 2021-10-11 16:44:54,031 - root - : This is used in try catch scenarios! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:59
+Traceback (most recent call last):
+  File "d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py", line 56, in <module>
+    Res = x / y
+ZeroDivisionError: division by zero
+[ERROR] root - 2021-10-11 16:48:27,320 - root - : whoops in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:47
+[WARNING] root - 2021-10-11 16:48:27,321 - root - : dont dare in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:49
+[CRITICAL] root - 2021-10-11 16:48:27,322 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:51
+[ERROR] root - 2021-10-11 16:48:27,322 - root - : This is used in try catch scenarios! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:59
+Traceback (most recent call last):
+  File "d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py", line 56, in <module>
+    Res = x / y
+ZeroDivisionError: division by zero
+[ERROR] root - 2021-10-11 16:49:07,023 - root - : whoops in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:47
+[WARNING] root - 2021-10-11 16:49:07,024 - root - : dont dare in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:49
+[CRITICAL] root - 2021-10-11 16:49:07,025 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:51
+[ERROR] root - 2021-10-11 16:49:07,026 - root - : This is used in try catch scenarios! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:59
+Traceback (most recent call last):
+  File "d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py", line 56, in <module>
+    Res = x / y
+ZeroDivisionError: division by zero
+[ERROR] root - 2021-10-11 16:51:19,387 - root - : whoops in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:47
+[WARNING] root - 2021-10-11 16:51:19,388 - root - : dont dare in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:49
+[CRITICAL] root - 2021-10-11 16:51:19,388 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:51
+[ERROR] root - 2021-10-11 16:51:19,388 - root - : This is used in try catch scenarios! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:59
+Traceback (most recent call last):
+  File "d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py", line 56, in <module>
+    Res = x / y
+ZeroDivisionError: division by zero
+[ERROR] root - 2021-10-11 16:51:32,560 - root - : whoops in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:47
+[WARNING] root - 2021-10-11 16:51:32,560 - root - : dont dare in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:49
+[CRITICAL] root - 2021-10-11 16:51:32,561 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:51
+[ERROR] root - 2021-10-11 16:51:32,561 - root - : This is used in try catch scenarios! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:59
+Traceback (most recent call last):
+  File "d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py", line 56, in <module>
+    Res = x / y
+ZeroDivisionError: division by zero
+[ERROR] root - 2021-10-11 16:51:57,670 - root - : whoops in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:47
+[CRITICAL] root - 2021-10-11 16:51:57,671 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:51
+[ERROR] root - 2021-10-11 16:51:57,671 - root - : This is used in try catch scenarios! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:59
+Traceback (most recent call last):
+  File "d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py", line 56, in <module>
+    Res = x / y
+ZeroDivisionError: division by zero
+[ERROR] root - 2021-10-11 17:03:17,605 - root - : whoops in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:47
+[CRITICAL] root - 2021-10-11 17:03:17,606 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:51
+[ERROR] root - 2021-10-11 17:03:17,606 - root - : This is used in try catch scenarios! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:59
+Traceback (most recent call last):
+  File "d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py", line 56, in <module>
+    Res = x / y
+ZeroDivisionError: division by zero
+[ERROR] root - 2021-10-11 17:04:03,273 - root - : whoops in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:47
+[CRITICAL] root - 2021-10-11 17:04:03,273 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:51
+[ERROR] root - 2021-10-11 17:04:03,274 - root - : This is used in try catch scenarios! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:59
+Traceback (most recent call last):
+  File "d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py", line 56, in <module>
+    Res = x / y
+ZeroDivisionError: division by zero
+[ERROR] root - 2021-10-11 17:06:06,420 - root - : whoops in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:47
+[CRITICAL] root - 2021-10-11 17:06:06,421 - root - : Oh Christ! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:51
+[ERROR] root - 2021-10-11 17:06:06,421 - root - : This is used in try catch scenarios! in d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py:59
+Traceback (most recent call last):
+  File "d:\k4jo7\OneDrive\Documents\Development\KaJoPy\wip_file.py", line 56, in <module>
+    Res = x / y
+ZeroDivisionError: division by zero

@@ -1,0 +1,4 @@
+My sample text
+and some more text
+This is new text appended to the file
+and some more text

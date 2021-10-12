@@ -1,4 +1,25 @@
 import os
+import csv
+
+
+
+def LoadCSV(filePath):
+    objfile = open(filePath,"r+")
+    fileData = csv.reader(objfile)
+    rownum=0
+    for row in fileData:
+        if rownum == 0 :
+            header = row
+        else:
+            print('')
+            colnum = 0
+            for col in row:
+                print (header[colnum] + ": " + col)
+                #print '%-8s: %s' % (header[colnum], col)
+                colnum += 1
+            print('_' * 50)
+        rownum += 1
+    objfile.close()
 
 
 # Function - Output the contents of a file
